@@ -13,10 +13,7 @@ Co-founder & CTO, Cocoon B.V. (Amsterdam)
 #### 2013 -- 2015
 Director of Digitalization, Political Party D66 (The Hague)
 
-* Responsible for managing various digital and online projects including:
-  * CRM
-  * Discussion platform based on Discourse
-  * Mobile app for party convention
+* Responsible for managing various digital and online projects including CRM, a discussion platform (Discourse) and mobile apps for the party convention
 * Built e-voting tool (Ruby on Rails)
 * Built billboard donation website (Ruby on Rails, Google Maps, Javascript)
 
