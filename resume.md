@@ -68,6 +68,12 @@ BSc. Information Science, University of Amsterdam
 * Team leader for _Information Retrieval_ project in which the quality of the search engine of the university website was researched.
 
 ### Other Activities
+#### 2015 -- present
+Online communication trainer for [IDI foundation][d66-idi]
+
+#### 2015 -- present
+Teacher / mentor at [Development Bootcamp][devbootcamp] and other Learn-to-Code events
+
 #### 2013 -- present
 Member rowing club K.A.R.Z.V. De Hoop Amsterdam
 
@@ -119,3 +125,5 @@ You can find me on [Facebook][fb], [twitter][tw] and [LinkedIn][li], but I'd pre
 [route66]: https://d66.nl/route66
 [paper-edu]: https://d66.nl/actueel/werk-maken-digitalisering-onderwijs
 [van-meenen]: https://d66.nl/mensen/paul-van-meenen/
+[d66-idi]: https://internationaal.d66.nl/wat-doet-idi/
+[devbootcamp]: https://www.developmentbootcamp.nl
