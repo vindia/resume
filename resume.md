@@ -9,6 +9,7 @@ I live in Amsterdam, The Netherlands.
 ### Work experience
 #### 2015 -- present
 Co-founder & CTO, Cocoon B.V. (Amsterdam)
+* Got selected for the [Rockstart Web/Mobile Accelarator][rockstartwm] 2015 program
 
 #### 2013 -- 2015
 Director of Digitalization, Political Party D66 (The Hague)
@@ -127,3 +128,4 @@ You can find me on [Facebook][fb], [twitter][tw] and [LinkedIn][li], but I'd pre
 [van-meenen]: https://d66.nl/mensen/paul-van-meenen/
 [d66-idi]: https://internationaal.d66.nl/wat-doet-idi/
 [devbootcamp]: https://www.developmentbootcamp.nl
+[rockstartwm]: http://www.rockstart.com/accelerator/web-mobile/
