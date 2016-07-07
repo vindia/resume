@@ -73,7 +73,7 @@ BSc. Information Science, University of Amsterdam
 Online communication trainer for [IDI foundation][d66-idi]
 
 #### 2015 -- present
-Teacher / mentor at [Development Bootcamp][devbootcamp] and other Learn-to-Code events
+Teacher / mentor at the [Development Bootcamp by Codaisseur][devbootcamp] and other Learn-to-Code events
 
 #### 2013 -- present
 Member rowing club K.A.R.Z.V. De Hoop Amsterdam
@@ -127,5 +127,5 @@ You can find me on [Facebook][fb], [twitter][tw] and [LinkedIn][li], but I'd pre
 [paper-edu]: https://d66.nl/actueel/werk-maken-digitalisering-onderwijs
 [van-meenen]: https://d66.nl/mensen/paul-van-meenen/
 [d66-idi]: https://internationaal.d66.nl/wat-doet-idi/
-[devbootcamp]: https://www.developmentbootcamp.nl
+[devbootcamp]: https://www.codaisseur.com
 [rockstartwm]: http://www.rockstart.com/accelerator/web-mobile/
