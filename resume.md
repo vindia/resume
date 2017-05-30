@@ -9,7 +9,12 @@ I live in Amsterdam, The Netherlands.
 ### Work experience
 #### 2015 -- present
 Co-founder & CTO, Cocoon B.V. (Amsterdam)
+
 * Got selected for the [Rockstart Web/Mobile Accelarator][rockstartwm] 2015 program
+* Built web application, dashboard and API in Ruby on Rails
+* Worked on mobile app and Dashboard using Ionic and AngularJS
+* Responsible for product management, customer development
+* Responsible for team of 2 developers
 
 #### 2013 -- 2015
 Director of Digitalization, Political Party D66 (The Hague)
