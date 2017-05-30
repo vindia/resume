@@ -115,6 +115,8 @@ In 2009 a friend an I [drove by car and motorcycle][dd] from Istanbul to Nepal.
 
 In 2012 two friends and I volunteered for [the Obama re-election campaign][obama] in Texas, North Carolina, Ohio and Illinois.
 
+Together with some friends I organize the [Webcrafters][wc] and [Amsterdam Tech Runners][atr] meetups.
+
 ### Contact
 You can find me on [Facebook][fb], [twitter][tw] and [LinkedIn][li], but I'd prefer if you would just send me an [e-mail][mail].
 
@@ -134,3 +136,5 @@ You can find me on [Facebook][fb], [twitter][tw] and [LinkedIn][li], but I'd pre
 [d66-idi]: https://internationaal.d66.nl/wat-doet-idi/
 [devbootcamp]: https://www.codaisseur.com
 [rockstartwm]: http://www.rockstart.com/accelerator/web-mobile/
+[wc]: https://webcrafters.xyz
+[atr]: https://www.meetup.com/AmsterdamTechRunners/
