@@ -118,10 +118,9 @@ In 2012 two friends and I volunteered for [the Obama re-election campaign][obama
 Together with some friends I organize the [Webcrafters][wc] and [Amsterdam Tech Runners][atr] meetups.
 
 ### Contact
-You can find me on [Facebook][fb], [twitter][tw] and [LinkedIn][li], but I'd prefer if you would just send me an [e-mail][mail].
+You can find me on [twitter][tw] and [LinkedIn][li], but I'd prefer if you would just send me an [e-mail][mail].
 
 [mail]: mailto:vincent@vincentoord.nl
-[fb]: https://facebook.com/VincentOord
 [li]: https://nl.linkedin.com/in/vincentoord
 [tw]: https://twitter.com/vindia
 [gh]: https://github.com/vindia
