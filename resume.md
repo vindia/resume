@@ -120,6 +120,8 @@ Together with some friends I organize the [Webcrafters][wc] and [Amsterdam Tech 
 ### Contact
 You can find me on [twitter][tw] and [LinkedIn][li], but I'd prefer if you would just send me an [e-mail][mail].
 
+If you're more the calling type of person, you can book also [book a 30-min call][calendly] with me.
+
 [mail]: mailto:vincent@vincentoord.nl
 [li]: https://nl.linkedin.com/in/vincentoord
 [tw]: https://twitter.com/vindia
@@ -137,3 +139,4 @@ You can find me on [twitter][tw] and [LinkedIn][li], but I'd prefer if you would
 [rockstartwm]: http://www.rockstart.com/accelerator/web-mobile/
 [wc]: https://webcrafters.xyz
 [atr]: https://www.meetup.com/AmsterdamTechRunners/
+[calendly]: https://calendly.com/vindia/nice-to-meet-you
