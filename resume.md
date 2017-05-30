@@ -4,7 +4,7 @@ I am a web guy with a strong focus on usability.
 
 I was born on July 4th, 1983 in Amstelveen, The Netherlands.
 
-I live in Amsterdam, The Netherlands.
+I divide my team between Amsterdam, The Netherlands and Vienna, Austria.
 
 ### Work experience
 #### 2015 -- present
